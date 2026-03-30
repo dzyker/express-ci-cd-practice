@@ -76,6 +76,7 @@ docker run -d \
 -----
 
 ### 📝 Статус сборки
+<img width="1266" height="151" alt="image" src="https://github.com/user-attachments/assets/f8a64fac-8f6b-4f01-924a-063b7ac80121" />
 
 -----
 
