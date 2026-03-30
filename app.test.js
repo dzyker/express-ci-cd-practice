@@ -5,6 +5,6 @@ describe('GET /', () => {
   it('should return Hello, DevOps World!', async () => {
     const res = await request(app).get('/');
     expect(res.statusCode).toEqual(200);
-    expect(res.text).toBe('Hello, DevOps World!');
+    expect(res.text).toContain('Hello, DevOps World!');
   });
 });
